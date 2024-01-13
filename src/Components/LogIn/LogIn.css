@@ -1,0 +1,12 @@
+.userContainer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+.space{
+    margin-top: 15px;
+}
+.space1{
+    margin-right: 10px;
+}
